@@ -1,0 +1,19 @@
+{
+    "name": "slide",
+    "version": "1.0.0",
+    "private": "true",
+    "description": "Assignment",
+    "main": "indext.js",
+    "scripts": {
+        "start": "node indext.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "abc"
+    },
+    "keywords": [
+        "abc"
+    ],
+    "author": "Nguyen Viet Tien",
+    "license": "ISC"
+}
